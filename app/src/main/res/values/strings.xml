@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">RodrigoTaboadaExamen</string>
+    <string name="itmRegister">Registro</string>
+    <string name="text_log_in">Log In</string>
+    <string name="text_register">Registro</string>
+    <string name="logo">Logo</string>
+    <string name="textEmail">Email</string>
+    <string name="textPassword">Password</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="textPhone">Phone</string>
+    <string name="itmNuevo">Nuevo</string>
+    <string name="Thin">Delgado</string>
+    <string name="Middle">Medio</string>
+    <string name="Big">Grande</string>
+    <string name="ckMuscle">Musculo</string>
+    <string name="ckResistende">Resistencia</string>
+    <string name="ckTone">Tonificar</string>
+    <string name="switchPay">Disponibilidad a pagar</string>
+    <string name="btnOk">Ok</string>
+    <string name="text_quiz">Encuesta</string>
+    <string name="textEdad">Edad</string>
+    <string name="text_Home">Home</string>
+    <string name="text_detail">Detalle</string>
+    <string name="txt_recycler">Prueba</string>
+    <string name="textName">Nombre</string>
+    <string name="textLastname">Apellido</string>
+    <string name="txt_edit">Editar</string>
+    <string name="itmRecycle">Prueba</string>
+</resources>
